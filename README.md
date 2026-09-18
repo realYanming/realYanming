@@ -17,7 +17,7 @@ I turn ideas into functional products through design, code, and AI-powered workf
   A real-time crypto price monitor and volatility alert extension with support for Binance and OKX.
 
 - [**snap-polish**](https://github.com/realYanming/snap-polish)  
-  A clipboard-first screenshot beautifier for creating polished, presentation-ready visuals.
+  A clipboard-first screenshot beautifier for creating polished, presentation-ready visuals.  
   [Try the live demo →](https://realyanming.github.io/snap-polish/)
 
 - [**plain-wechat**](https://github.com/realYanming/plain-wechat)  
