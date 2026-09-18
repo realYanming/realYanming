@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Yanming 👋
 
-<!--
-**realYanming/realYanming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Product Designer exploring the intersection of **AI, Product Design, and Vibe Coding**.
 
-Here are some ideas to get you started:
+I turn ideas into functional products through design, code, and AI-powered workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Working On
+
+- Building practical AI tools and lightweight digital products
+- Exploring AI-native product experiences and design workflows
+- Turning design concepts into working prototypes with code
+- Sharing what I learn about AI, design, and Vibe Coding
+
+## Featured Projects
+
+- [**CryptoTick Extension**](https://github.com/realYanming/CryptoTick_Extension)  
+  A real-time crypto price monitor and volatility alert extension with support for Binance and OKX.
+
+- [**snap-polish**](https://github.com/realYanming/snap-polish)  
+  A clipboard-first screenshot beautifier for creating polished, presentation-ready visuals.
+
+- [**plain-wechat**](https://github.com/realYanming/plain-wechat)  
+  A clean Markdown-to-WeChat rich text composer with restrained, reading-first styles.  
+  [Try the live demo →](https://realyanming.github.io/plain-wechat/)
+
+## Design & Build
+
+- Product Design and UI/UX
+- AI-powered design workflows
+- Rapid prototyping and Vibe Coding
+- React, Vite, Tailwind CSS
+- Figma and Design Systems
+
+## Find Me
+
+- 𝕏 [@realYanming](https://x.com/realYanming)
+- ✉️ [taoym@foxmail.com](mailto:taoym@foxmail.com)
